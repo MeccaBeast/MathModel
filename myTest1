@@ -1,0 +1,5 @@
+-verbose
+-d classes
+-classpath classes
+-sourcepath src
+src/mc/myTest1.java
